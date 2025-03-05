@@ -33,15 +33,15 @@
 # print(type(age))
 # print(f"제 이메일 은 {email}, 제 취미는 {hobby}, 나이는 {age}")
 
-# 리스트에서 index() 사용
-my_list = [10, 20, 30, 40, 20]
-print(my_list.index(20)) # 결과: 1 (20이 처음 나타나는 위치)
-print(my_list.index(20, 2)) # 결과: 4 (인덱스 2부터 검색 시작)
-
-# 문자열에서 index() 사용
-my_string = "Hello, Python!"
-print(my_string.index("Python")) # 결과: 7
-
-# 튜플에서 index() 사용
-my_tuple = (1, 2, 3, 4, 3)
-print(my_tuple.index(3)) # 결과: 2
+# # 리스트에서 index() 사용
+# my_list = [10, 20, 30, 40, 20]
+# print(my_list.index(20)) # 결과: 1 (20이 처음 나타나는 위치)
+# print(my_list.index(20, 2)) # 결과: 4 (인덱스 2부터 검색 시작)
+#
+# # 문자열에서 index() 사용
+# my_string = "Hello, Python!"
+# print(my_string.index("Python")) # 결과: 7
+#
+# # 튜플에서 index() 사용
+# my_tuple = (1, 2, 3, 4, 3)
+# print(my_tuple.index(3)) # 결과: 2
