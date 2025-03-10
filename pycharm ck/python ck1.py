@@ -45,3 +45,7 @@
 # # 튜플에서 index() 사용
 # my_tuple = (1, 2, 3, 4, 3)
 # print(my_tuple.index(3)) # 결과: 2
+
+a, b = map(int, input().strip().split(' '))
+print("a = ", a)
+print("b = ", b)
