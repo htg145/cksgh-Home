@@ -1,0 +1,62 @@
+[
+    {
+        "no": 7,
+        "word": "above",
+        "meaning": "-보다 위에",
+        "level": "초등"
+    },
+    {
+        "no": 2694,
+        "word": "textbook",
+        "meaning": "교과서",
+        "level": "초등"
+    },
+    {
+        "no": 2975,
+        "word": "wood",
+        "meaning": "숲",
+        "level": "초등"
+    },
+    {
+        "no": 2804,
+        "word": "try",
+        "meaning": "시험해보다",
+        "level": "초등"
+    },
+    {
+        "no": 1767,
+        "word": "must",
+        "meaning": "-해야 한다",
+        "level": "초등"
+    },
+    {
+        "no": 502,
+        "word": "clerk",
+        "meaning": "서기",
+        "level": "초등"
+    },
+    {
+        "no": 1054,
+        "word": "fact",
+        "meaning": "사실",
+        "level": "초등"
+    },
+    {
+        "no": 719,
+        "word": "cycle",
+        "meaning": "순환",
+        "level": "초등"
+    },
+    {
+        "no": 734,
+        "word": "daughter",
+        "meaning": "딸",
+        "level": "초등"
+    },
+    {
+        "no": 1835,
+        "word": "nurse",
+        "meaning": "유모",
+        "level": "초등"
+    }
+]
